@@ -1,2 +1,2 @@
-## way_of_prger
-# short description of my way to become a software developer
+# way_of_prger
+## How I've become a programmer | Как я стал программистом
