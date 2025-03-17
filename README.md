@@ -57,27 +57,27 @@
 
 *Курсы*
 
-https://stepik.org/catalog?language=en
-https://acloudguru.com/
-https://www.udemy.com/ru/?persist_locale=&locale=ru_RU
-https://www.coursera.org/
+- [Stepic](https://stepik.org/catalog?language=en)
+- [Cloudguru](https://www.pluralsight.com/cloud-guru)
+- [Udemy](https://www.udemy.com/)
+- [Coursera](https://www.coursera.org/)
 
 *Статьи*
 
-https://habr.com/ru/
-https://medium.com/
+- [Habr](https://habr.com/ru/)
+- [Medium](https://medium.com/)
 
 *Резюме*
 
-https://www.resumemaker.online/
-https://thisresumedoesnotexist.com/ 
-https://www.cakeresume.com/Engineering-resume-samples
+- [Resumemaker](https://www.resumemaker.online/)
+- [These resumes do not exist](https://thisresumedoesnotexist.com/) 
+- [Cakeresume](https://www.cakeresume.com/Engineering-resume-samples)
 
 *Youtube*
 
-https://youtu.be/ko-KkSmp-Lk
-https://youtu.be/XKu_SEDAykw
+- [Prepare for a Google Engineering Interview](https://youtu.be/ko-KkSmp-Lk)
+- [Example Coding/Engineering Interview](https://youtu.be/XKu_SEDAykw)
 
 *Книги*
 
-https://mybook.ru/author/angela-dakvort/tverdost-haraktera-kak-razvit-v-sebe-glavnoe-kache/read/
+- [Dakvort](https://mybook.ru/author/angela-dakvort/tverdost-haraktera-kak-razvit-v-sebe-glavnoe-kache/read/)
