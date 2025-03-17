@@ -1,2 +1,2 @@
-# way_of_prger
+# My way
 ## How I've become a programmer | Как я стал программистом
